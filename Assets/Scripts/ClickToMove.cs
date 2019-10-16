@@ -1,5 +1,6 @@
 ﻿// ClickToMove.cs
 using UnityEngine;
+using UnityEngine.AI;
 
 [RequireComponent (typeof (NavMeshAgent))]
 public class ClickToMove : MonoBehaviour {

@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+using UnityEngine.AI;
 [RequireComponent (typeof (NavMeshAgent))]
 [RequireComponent (typeof (Animator))]
 public class LocomotionSimpleAgent : MonoBehaviour {
